@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f06cac1c.css",
+    "main.js": "/static/js/main.af21f3d7.js",
+    "static/js/8.cddff0d4.chunk.js": "/static/js/8.cddff0d4.chunk.js",
+    "static/js/312.628e62d0.chunk.js": "/static/js/312.628e62d0.chunk.js",
+    "static/js/528.52785779.chunk.js": "/static/js/528.52785779.chunk.js",
+    "static/js/148.df50f1c5.chunk.js": "/static/js/148.df50f1c5.chunk.js",
+    "static/js/592.dd2eec42.chunk.js": "/static/js/592.dd2eec42.chunk.js",
+    "static/js/744.24f487de.chunk.js": "/static/js/744.24f487de.chunk.js",
+    "static/js/868.7085cc43.chunk.js": "/static/js/868.7085cc43.chunk.js",
+    "static/js/901.36511819.chunk.js": "/static/js/901.36511819.chunk.js",
+    "static/media/ethnocentric-rg.ttf": "/static/media/ethnocentric-rg.8d07608882f4d41602df.ttf",
+    "static/media/AvenirLTStd-Heavy.ttf": "/static/media/AvenirLTStd-Heavy.a7f75bae279136289dd6.ttf",
+    "static/media/AvenirLTStd-Medium.ttf": "/static/media/AvenirLTStd-Medium.d8cf985436aac2cdc228.ttf",
+    "static/media/AvenirLTStd-Black.ttf": "/static/media/AvenirLTStd-Black.dbad8bbf83afcfcff4ff.ttf",
+    "static/media/hero-bg.jpg": "/static/media/hero-bg.86585ed06e814cd98342.jpg",
+    "index.html": "/index.html",
+    "main.f06cac1c.css.map": "/static/css/main.f06cac1c.css.map",
+    "main.af21f3d7.js.map": "/static/js/main.af21f3d7.js.map",
+    "8.cddff0d4.chunk.js.map": "/static/js/8.cddff0d4.chunk.js.map",
+    "312.628e62d0.chunk.js.map": "/static/js/312.628e62d0.chunk.js.map",
+    "528.52785779.chunk.js.map": "/static/js/528.52785779.chunk.js.map",
+    "592.dd2eec42.chunk.js.map": "/static/js/592.dd2eec42.chunk.js.map",
+    "744.24f487de.chunk.js.map": "/static/js/744.24f487de.chunk.js.map",
+    "868.7085cc43.chunk.js.map": "/static/js/868.7085cc43.chunk.js.map",
+    "901.36511819.chunk.js.map": "/static/js/901.36511819.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f06cac1c.css",
+    "static/js/main.af21f3d7.js"
+  ]
+}
